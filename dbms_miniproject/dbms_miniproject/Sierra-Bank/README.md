@@ -18,12 +18,6 @@ It is the standard Python interface to the Tk GUI toolkit and is Python's de fac
 #### mysql.connector
 `mysql-connector-python` is a standardized database driver provided by MySQL. MySQL Connector/Python supports almost all features provided by MySQL version 5.7. It allows you to convert the parameter's value between Python and MySQL data types.
 
-## Installation
-Make sure all the requirements are ready, and mysql is authenticated + ready to run.
-Then, clone the repo with:
-```
-git clone https://github.com/Jhalak151/Sierra-Bank Sierra-Bank
-```
 cd into the directory and run the script as you would any regular python script. <br>
 <i>Note: you need to enter `your mysql password` into the `main.py` scipt, on line 13</i>
 ```
