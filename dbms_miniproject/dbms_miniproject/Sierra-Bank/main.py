@@ -10,7 +10,7 @@ import bank_gui_elements_library as el
 mydb = mysql.connector.connect(
     host='localhost',
     user='root',
-    password='secret_password') ##inga password podu   
+    password='secret_password') 
 mycursor = mydb.cursor()
 
 mycursor.execute('CREATE DATABASE IF NOT EXISTS bank')
