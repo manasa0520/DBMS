@@ -6,7 +6,7 @@ It is the standard Python interface to the Tk GUI toolkit and is Python's de fac
 `mysql-connector-python` is a standardized database driver provided by MySQL. MySQL Connector/Python supports almost all features provided by MySQL version 5.7. It allows you to convert the parameter's value between Python and MySQL data types.
 
 cd into the directory and run the script as you would any regular python script. <br>
-<i>Note: you need to enter `your mysql password` into the `main.py` scipt, on line 13</i>
+<i>Note: you need to enter `your mysql password` into the `main.py` scipt
 ```
 cd Sierra-Bank
 python main.py
